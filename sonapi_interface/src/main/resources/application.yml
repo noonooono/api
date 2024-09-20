@@ -1,0 +1,10 @@
+server:
+  port: 8123
+  servlet:
+    address: localhost
+    context-path: /api
+
+sonapi:
+  client:
+    access-key: son
+    secret-key: abcdefgh
